@@ -20,14 +20,15 @@ Technologies in this workshop:
 - [Next.JS](https://nextjs.org/): Static site Generator
 - [Ghost.js](https://ghost.org/): Headless CMS
 
-![we move](./img/we_move.gif)
+imag![we move](https://cloud-b3ybf7tz0.vercel.app/6we_move.gif)
 
 ###### we move, one step at a time...
 
 ## Prerequisites
+
 This workshop requires an existing moderate knowledge of JavaScript and React. but everyone is welcome to follow along, I would try to break stuff down as much as possible.
 
-![giphy](./img/dance.gif)
+![giphy](https://cloud-b3ybf7tz0.vercel.app/3dance.gif)
 
 ###### _Let's get this party started_
 
@@ -56,7 +57,7 @@ _Grab a coffee, this could take while..._
 
 Ghost is an API driven CMS, which means you do your CRUD interactions through the API, the response is in JSON format. but Ghost ships with Handlebars so you can begin interacting with your content immediately so once it's done you can access Ghost from [http://localhost:2368](http://localhost:2368)
 
-![Ghost site](./img/ghost%20site.png)
+![Ghost site](https://cloud-b3ybf7tz0.vercel.app/4ghost_site.png)
 
 ###### Ghost default site
 
@@ -83,7 +84,7 @@ yarn dev
 
 This serves the NextJS server on [http://localhost:3000](http://localhost:3000)
 
-![Next.js](./img/nextapp.png)
+![Next.js](https://cloud-b3ybf7tz0.vercel.app/5nextapp.png)
 
 ###### Next.js default starter
 
@@ -407,10 +408,10 @@ We now have a basic blog with our contents managed by Ghost CMS via an API.
 We read some post contents from ghost through the content API into the frontend, You're probably wondering how all that content got into Ghost, Ghost ships some default data out of the box.
 
 You can manage your ghost contents through the Ghost admin interface on [http://localhost:2368/ghost/](http://localhost:2368/ghost/).
-![Ghost Admin](./img/Screenshot%20from%202020-10-28%2014-43-54.png)
+![Ghost Admin](https://cloud-b3ybf7tz0.vercel.app/0screenshot_from_2020-10-28_14-43-54.png)
 
 Ghost has a really great and powerful content editor that can be used right from the browser with all the features you would expect to find
-![Ghost Editor](./img/Screenshot%20from%202020-10-28%2014-44-07.png)
+![Ghost Editor](https://cloud-b3ybf7tz0.vercel.app/1screenshot_from_2020-10-28_14-44-07.png)
 
 ## Next Steps
 
