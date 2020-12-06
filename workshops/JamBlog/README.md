@@ -33,7 +33,8 @@ This workshop requires an existing moderate knowledge of JavaScript and React. b
 
 ## Setup Ghost.js
 
-Ghost is completely free and open-source. It can be downloaded and self-hosted just about anywhere or spun up in a few moments using the Ghost(Pro) managed PaaS, but this includes a subscription which comes with a 14-day free trial.
+There are a couple of options to spin up ghost.
+One option is to download and self-host just about anywhere, another option is using the Ghost(Pro) managed PaaS, but this includes a subscription which comes with a 14-day free trial.
 
 I’ll be using a **self-hosted** option on my machine, this way you don't have to pay at least until you are ready to host it, and you have the option of using other hosting providers. you can go ahead and set up your ghost pro account if you like.
 
