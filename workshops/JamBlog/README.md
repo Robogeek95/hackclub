@@ -16,11 +16,9 @@ Jamstack is the new standard architecture for the web designed to make websites 
 
 Technologies in this workshop:
 
-- React.js(Javascript framework)
-- Next.js(Static site Generator)
-- Ghost.js(Headless CMS)
-
-Hosting on a CDN is beyond the scope of this workshop.
+- [React.js](https://reactjs.org/): The Javascript framework
+- [Next.JS](https://nextjs.org/): Static site Generator
+- [Ghost.js](https://ghost.org/): Headless CMS
 
 ### [Next.JS](https://nextjs.org/)
 
