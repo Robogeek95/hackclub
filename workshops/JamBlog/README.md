@@ -25,8 +25,7 @@ Technologies in this workshop:
 ###### we move, one step at a time...
 
 ## Prerequisites
-
-This configuration of a Ghost publication requires an existing moderate knowledge of JavaScript and React. but everybody is welcome to follow along, I would try to break stuff down as much as possible.
+This workshop requires an existing moderate knowledge of JavaScript and React. but everyone is welcome to follow along, I would try to break stuff down as much as possible.
 
 ![giphy](./img/dance.gif)
 
@@ -36,7 +35,7 @@ This configuration of a Ghost publication requires an existing moderate knowledg
 
 Ghost is completely free and open-source. It can be downloaded and self-hosted just about anywhere or spun up in a few moments using the Ghost(Pro) managed PaaS, but this includes a subscription which comes with a 14-day free trial.
 
-I’ll be using a ** self-hosted** option on my machine, this way you don't have to pay at least until you are ready to host it, and you have the option of using other hosting providers. you can go ahead and set up your ghost pro account if you like.
+I’ll be using a **self-hosted** option on my machine, this way you don't have to pay at least until you are ready to host it, and you have the option of using other hosting providers. you can go ahead and set up your ghost pro account if you like.
 
 ### Install [Ghost CLI](https://ghost.org/docs/api/v3/ghost-cli/)
 
