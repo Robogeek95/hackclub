@@ -5,7 +5,7 @@ author: '@SoftKeys',
 img: './img/calum-lewis-9RGPG_ksS3Q-unsplash.jpg'
 ---
 
-This workshop aims to help you build a blog on the [Jamstack](https://jamstack.org/what-is-jamstack/). By the end of this workshop, we would spin up a blog with an entirely custom frontend with the [NextJS](https://nextjs.org/) react framework and the CMS with [Ghost.js](https://ghost.org/), an API driven headless cms.
+This workshop aims to help you build a blog on the [Jamstack](https://jamstack.org/what-is-jamstack/). By the end of this workshop, we would spin up a blog with an entirely custom frontend with the [NextJS](https://nextjs.org/) react framework and the CMS with [Ghost.js](https://ghost.org/), an API driven headless CMS.
 
 ## The Stack
 
@@ -30,7 +30,7 @@ Next.js is an open-source React front-end development web framework that enables
 
 An headless CMS(content management system), is a back-end only content management system (CMS) built from the ground up as a content repository that makes content accessible in an API driven manner via a RESTful API for display on any client, regardless of the device.
 
-So it’s basically a full-backend service with the database and also the editor and everything set up for you without any view representation, you interact with the API and JSON response. There are several headless cms examples out there, Including Ghost.js I’ll show an example of how to build a blog feature in a NextJS website with Ghost.js headless cms. This is what we’re going to develop in this workshop.
+So it’s basically a full-backend service with the database and also the editor and everything set up for you without any view representation, you interact with the API and JSON response. There are several headless CMS examples out there, Including Ghost.js I’ll show an example of how to build a blog feature in a NextJS website with Ghost.js headless CMS. This is what we’re going to develop in this workshop.
 
 ### why [Ghost.js](https://ghost.org/)
 
@@ -450,4 +450,4 @@ For ideas and inspirations see some blogs built on the Jamstack:
 - [DuckDuckGo blog](https://spreadprivacy.com/)
 - [Airtable Blog](https://blog.airtable.com/)
 - [The Gradient](https://thegradient.pub/)
-- [CMS critic](https://www.cmscritic.com/)
+- [CMS critic](https://www.CMScritic.com/)
