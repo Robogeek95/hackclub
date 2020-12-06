@@ -20,22 +20,6 @@ Technologies in this workshop:
 - [Next.JS](https://nextjs.org/): Static site Generator
 - [Ghost.js](https://ghost.org/): Headless CMS
 
-### [Next.JS](https://nextjs.org/)
-
-Next.js is an open-source React front-end development web framework that enables functionality such as server-side rendering and generating static websites for React based web applications. It is a production-ready framework that allows developers to quickly create static and dynamic Jamstack websites.
-
-### Headless CMS
-
-An headless CMS(content management system), is a back-end only content management system (CMS) built from the ground up as a content repository that makes content accessible in an API driven manner via a RESTful API for display on any client, regardless of the device.
-
-So it’s basically a full-backend service with the database and also the editor and everything set up for you without any view representation, you interact with the API and JSON response. There are several headless CMS examples out there, Including Ghost.js I’ll show an example of how to build a blog feature in a NextJS website with Ghost.js headless CMS. This is what we’re going to develop in this workshop.
-
-### why [Ghost.js](https://ghost.org/)
-
-Ghost is the number one open-source CMS on Github. Ghost is an open-source, professional publishing platform built on a modern Node.js technology stack, and is completely framework-agnostic — designed with flexibility and performance built-in.
-
-Everyday Ghost powers some of the most-read stories on the internet, serving hundreds of millions of requests across tens of thousands of sites.
-
 ![we move](./img/we_move.gif)
 
 ###### we move, one step at a time...
