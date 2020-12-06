@@ -11,7 +11,7 @@ This workshop aims to help you build a blog on the [Jamstack](https://jamstack.o
 
 ### [Jamstack](https://jamstack.org/what-is-jamstack/)
 
-You've probably heard of the Jamstack or come across it a few times,
+You've probably heard of the Jamstack or come across it a few times.
 Jamstack is the new standard architecture for the web designed to make websites faster. Using Git workflows and modern build tools, pre-rendered content is served to a **CDN** and made dynamic through **APIs** and **serverless functions**. Technologies in the stack include JavaScript frameworks, Static Site Generators, Headless CMS, and CDNs.
 
 Technologies in this workshop:
